@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails Tutorial
 
 ## "hello, world!"
@@ -30,3 +31,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Rails_tutorial
+>>>>>>> 925065a5a2183c60840d90259fdab2bedfa10448
